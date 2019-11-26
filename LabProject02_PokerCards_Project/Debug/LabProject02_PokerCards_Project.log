@@ -1,0 +1,37 @@
+﻿Build started 26/11/2019 13:15:34 PM.
+Project "D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\LabProject02_PokerCards_Project\LabProject02_PokerCards_Project.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Rank.cpp
+  Rank.cpp
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(71): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(163): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(205): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(219): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(225): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(245): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(259): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive - vnu-hcmus\work\lab\labproject02_pokercards_project\labproject02_pokercards_project\rank.cpp(273): warning C4018: '<' : signed/unsigned mismatch
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\Debug\LabProject02_PokerCards_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\Debug\LabProject02_PokerCards_Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\Debug\LabProject02_PokerCards_Project.lib" /MACHINE:X86 Debug\Advance.obj
+  Debug\Games.obj
+  Debug\Mode.obj
+  Debug\Program.obj
+  Debug\Initial.obj
+  Debug\Prospect.obj
+  Debug\Rank.obj
+  LabProject02_PokerCards_Project.vcxproj -> D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\Debug\LabProject02_PokerCards_Project.exe
+Done Building Project "D:\OneDrive - VNU-HCMUS\Work\Lab\LabProject02_PokerCards_Project\LabProject02_PokerCards_Project\LabProject02_PokerCards_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:28.11
